@@ -1,0 +1,11 @@
+{
+  "name": "component-boot",
+  "repo": "marcusandre/component-boot",
+  "description": "A good starting point for component(1) projects",
+  "version": "0.0.1",
+  "dependencies": {},
+  "development": {},
+  "paths": ["lib"],
+  "local": ["boot"],
+  "private": true
+}

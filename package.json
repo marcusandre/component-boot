@@ -1,0 +1,20 @@
+{
+  "name": "component-boot",
+  "version": "0.0.1",
+  "description": "A good starting point for component(1) projects.",
+  "author": "Marcus André <hello@marcusandre.de>",
+  "dependencies": {
+    "styl": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcusandre/component-boot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcusandre/component-boot/issues"
+  },
+  "homepage": "https://github.com/marcusandre/component-boot",
+  "main": "index.js",
+  "license": "MIT"
+}

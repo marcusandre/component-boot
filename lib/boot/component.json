@@ -1,0 +1,11 @@
+{
+  "name": "boot",
+  "description": "Boots up the main application",
+  "dependencies": {},
+  "development": {},
+  "main": "boot.js",
+  "scripts": [
+    "boot.js"
+  ],
+  "private": true
+}

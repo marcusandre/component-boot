@@ -1,0 +1,14 @@
+
+# Project
+
+template.js
+components
+build
+node_modules
+*.css
+
+# System
+
+.DS_Store
+*.log
+._*
