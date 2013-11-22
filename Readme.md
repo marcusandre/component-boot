@@ -1,7 +1,7 @@
 
 # component-boot
 
-  A good starting point for component(1) projects.
+  A good starting point for [component(1)](https://github.com/component/component) projects.
 
 ## Installation
 
