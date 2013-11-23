@@ -1,4 +1,3 @@
-
 # component-boot
 
   A good starting point for [component(1)](https://github.com/component/component) projects.
@@ -32,11 +31,6 @@
   Then you could do something like:
 
     $ watch -i 500ms make
-
-### Do I need to pay attention to anything?
-
-  Not really; but you could name your templates ```template.html```, so all
-  ```make``` commands can work like they should.
 
 ## License
 
